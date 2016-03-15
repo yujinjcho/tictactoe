@@ -1,0 +1,24 @@
+div {
+	height: 150px;
+	width: 150px;
+	border: 1px solid gray;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	vertical-align: top;
+	font-size: 130px;
+	line-height: 160px;
+	font-family: Helvetica;
+}
+
+#board {
+	width: 500px;
+	height: 500px;
+	border: none;
+}
+
+body {
+	text-align: center;
+	margin: 20px auto;
+}
+
